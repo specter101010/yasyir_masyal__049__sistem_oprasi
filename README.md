@@ -36,10 +36,43 @@ tugas min 50 command linux
      <h4>cd .. – Kembali ke direktori sebelumnya.</h4>
   </li>
   
-    <img  src="cd kembali.png" alt="cable"  width="300px">
+   <img  src="cd.png" alt="cable"  width="300px">
+  <li>
+     <h4>cd [direktori] – Berpindah ke direktori lain.</h4>
+  </li>
+
+   <img  src="cmp.png" alt="cable"  width="300px">
+  <li>
+     <h4>cmp file1.txt file2.txt – Membandingkan dua file byte per byte.</h4>
+  </li>
+
+
+ <img  src="cp.png" alt="cable"  width="300px">
+  <li>
+      <h4>cp [file] [tujuan] – Menyalin file ke lokasi lain.</h4>
+  </li>
+  
+ <img  src="cd kembali.png" alt="cable"  width="300px">
   <li>
      <h4>cd ~ – Kembali ke direktori home pengguna.</h4>
   </li>
+  
+ <img  src="curl -I.png" alt="cable"  width="300px">
+  <li>
+     <h4>curl -I google.com – Menampilkan header HTTP dari sebuah website.</h4>
+  </li>
+   
+ <img  src="date.png" alt="cable"  width="300px">
+  <li>
+     <h4>date – Menampilkan tanggal dan waktu saat ini.</h4>
+  </li>
+  
+ <img  src="df -h.png" alt="cable"  width="300px">
+  <li>
+     <h4>df -h – Menampilkan penggunaan ruang disk dalam format yang mudah dibaca.</h4>
+  </li>
+   
+  
 </ol>
 
 <br>
