@@ -71,8 +71,36 @@ tugas min 50 command linux
   <li>
      <h4>df -h – Menampilkan penggunaan ruang disk dalam format yang mudah dibaca.</h4>
   </li>
-   
   
+ <img  src="dig.png" alt="cable"  width="300px">
+  <li>
+     <h4>dig google.com – Menampilkan detail resolusi DNS untuk sebuah domain.</h4>
+  </li>
+
+   <img  src="du -sh.png" alt="cable"  width="300px">
+  <li>
+     <h4>du -sh [folder] – Menampilkan ukuran folder tertentu.</h4>
+  </li>
+
+   <img  src="echo.png" alt="cable"  width="300px">
+  <li>
+     <h4>echo "Hello" > file.txt – Menulis teks ke dalam file.</h4>
+  </li>
+
+   <img  src="find.png" alt="cable"  width="300px">
+  <li>
+     <h4>find /path -name "*.txt" – Mencari file dengan ekstensi tertentu.</h4>
+  </li>
+
+  <img  src="free -m.png" alt="cable"  width="300px">
+  <li>
+     <h4>watch -n 1 free -m – Memantau penggunaan RAM secara real-time.</h4>
+  </li>
+  
+  <img  src="head -n.png" alt="cable"  width="300px">
+  <li>
+     <h4>head -n 10 [file] – Menampilkan 10 baris pertama file.</h4>
+  </li>
 </ol>
 
 <br>
