@@ -101,6 +101,59 @@ tugas min 50 command linux
   <li>
      <h4>head -n 10 [file] – Menampilkan 10 baris pertama file.</h4>
   </li>
+  
+  <img  src="history.png" alt="cable"  width="300px">
+  <li>
+     <h4>history – Menampilkan riwayat perintah yang telah dijalankan.</h4>
+  </li>
+  
+  <img  src="host.png" alt="cable"  width="300px">
+  <li>
+     <h4>host google.com – Melihat informasi DNS dari domain tertentu.</h4>
+  </li>
+  
+  <img  src="hostname -i.png" alt="cable"  width="300px">
+  <li>
+     <h4>hostname -I – Menampilkan alamat IP lokal.</h4> 
+  </li>
+
+   <img  src="hostname.png" alt="cable"  width="300px">
+  <li>
+     <h4>hostname menampilan hostname</h4> 
+  </li>
+    <img  src="id.png" alt="cable"  width="300px">
+  <li>
+     <h4>id – Menampilkan UID dan GID pengguna saat ini.</h4> 
+  </li>
+    <img  src="ifconfig.png" alt="cable"  width="300px">
+  <li>
+     <h4>ifconfig – Menampilkan informasi jaringan. (Digunakan di sistem lama)</h4> 
+  </li>
+    <img  src="journalctl -xe.png" alt="cable"  width="300px">
+  <li>
+     <h4>journalctl -xe – Menampilkan log sistem secara mendetail.</h4> 
+  </li>
+    <img  src="less.png" alt="cable"  width="300px">
+  <li>
+     <h4>less [file] – Menampilkan isi file satu halaman per satu waktu.</h4> 
+  </li>
+    <img  src="ls -a.png" alt="cable"  width="300px">
+  <li>
+     <h4>ls -a – Menampilkan semua file, termasuk yang tersembunyi.</h4> 
+  </li>
+    <img  src="ls -l.png" alt="cable"  width="300px">
+  <li>
+     <h4>ls -l – Menampilkan daftar file dengan detail.</h4> 
+  </li>
+    <img  src="ls.png" alt="cable"  width="300px">
+  <li>
+     <h4>ls -l – Menampilkan daftar file dengan detail.</h4> 
+  </li>
+    <img  src="lsblk.png" alt="cable"  width="300px">
+  <li>
+     <h4>lsblk – Menampilkan daftar perangkat penyimpanan dan partisi.</h4> 
+  </li>
+  
 </ol>
 
 <br>
