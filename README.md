@@ -153,6 +153,118 @@ tugas min 50 command linux
   <li>
      <h4>lsblk – Menampilkan daftar perangkat penyimpanan dan partisi.</h4> 
   </li>
+    <img  src="mkdir.png" alt="cable"  width="300px">
+  <li>
+     <h4>mkdir [folder] – Membuat direktori baru.</h4> 
+  </li>
+    <img  src="mv.png" alt="cable"  width="300px">
+  <li>
+     <h4>mv [file] [tujuan] – Memindahkan atau merename file.</h4> 
+  </li>
+    <img  src="nano.png" alt="cable"  width="300px">
+  <li>
+     <h4>nano [file] – Membuka file dengan editor Nano.</h4> 
+  </li>
+    <img  src="netstat -tulnp.png" alt="cable"  width="300px">
+  <li>
+     <h4>netstat -tulnp – Menampilkan daftar port yang terbuka. </h4> 
+  </li>
+    <img  src="nmap -sP.png" alt="cable"  width="300px">
+  <li>
+     <h4>nmap -sP 192.168.1.0/24 – Melakukan pemindaian jaringan lokal.</h4> 
+  </li>
+    <img  src="ping.png" alt="cable"  width="300px">
+  <li>
+     <h4>ping google.com – Mengecek koneksi ke suatu host.</h4> 
+  </li>
+    <img  src="ps aux.png" alt="cable"  width="300px">
+  <li>
+     <h4>ps aux – Menampilkan daftar proses yang berjalan.</h4> 
+  </li>
+    <img  src="pwd.png" alt="cable"  width="300px">
+  <li>
+     <h4>pwd – Menampilkan direktori kerja saat ini.</h4> 
+  </li>
+    <img  src="rm -r.png" alt="cable"  width="300px">
+  <li>
+     <h4>rm [file] – Menghapus file.</h4> 
+  </li>
+    <img  src="rm.png" alt="cable"  width="300px">
+  <li>
+     <h4>rm -r [folder] – Menghapus direktori beserta isinya.</h4> 
+  </li>
+    <img  src="stat.png" alt="cable"  width="300px">
+  <li>
+     <h4>stat file.txt – Menampilkan informasi detail tentang file.</h4> 
+  </li>
+    <img  src="tail -n.png" alt="cable"  width="300px">
+  <li>
+     <h4>tail -n 10 [file] – Menampilkan 10 baris terakhir file.</h4> 
+  </li>
+    <img  src="tar -cvf.png" alt="cable"  width="300px">
+  <li>
+     <h4>tar -cvf archive.tar folder/ – Membuat file TAR dari folder.</h4> 
+  </li>
+    <img  src="tar -xvf.png" alt="cable"  width="300px">
+  <li>
+     <h4>tar -xvf archive.tar – Mengekstrak file TAR.</h4> 
+  </li>
+    <img  src="time ls.png" alt="cable"  width="300px">
+  <li>
+     <h4>time ls – Mengukur waktu eksekusi suatu perintah.</h4> 
+  </li>
+    <img  src="top.png" alt="cable"  width="300px">
+  <li>
+     <h4>top – Menampilkan proses secara real-time.</h4> 
+  </li>
+    <img  src="touch.png" alt="cable"  width="300px">
+  <li>
+     <h4>touch [file] – Membuat file kosong baru.</h4> 
+  </li>
+    <img  src="traceroute.png" alt="cable"  width="300px">
+  <li>
+     <h4>traceroute google.com – Melihat jalur yang dilewati paket ke server tujuan.</h4> 
+  </li>
+    <img  src="tree.png" alt="cable"  width="300px">
+  <li>
+     <h4>tree – Menampilkan struktur direktori dalam bentuk pohon.</h4> 
+  </li>
+    <img  src="uname -a.png" alt="cable"  width="300px">
+  <li>
+     <h4>uname -a – Menampilkan informasi sistem.</h4> 
+  </li>
+    <img  src="unzip .png" alt="cable"  width="300px">
+  <li>
+     <h4>unzip archive.zip – Mengekstrak file ZIP.</h4> 
+  </li>
+    <img  src="uptime.png" alt="cable"  width="300px">
+  <li>
+     <h4>uptime – Menampilkan waktu aktif sistem sejak booting.</h4> 
+  </li>
+    <img  src="vim.png" alt="cable"  width="300px">
+  <li>
+     <h4>vim [file] – Membuka file dengan editor Vim.</h4> 
+  </li>
+    <img  src="w.png" alt="cable"  width="300px">
+  <li>
+     <h4>w – Menampilkan daftar pengguna yang sedang aktif dan aktivitasnya.</h4> 
+  </li>
+    <img  src="watch -n free -m.png" alt="cable"  width="300px">
+  <li>
+     <h4>watch -n 1 free -m – Memantau penggunaan RAM secara real-time.</h4> 
+  </li>
+    <img  src="who.png" alt="cable"  width="300px">
+  <li>
+     <h4>who – Menampilkan siapa saja yang sedang login ke sistem.</h4> 
+  </li>
+    <img  src="whoami.png" alt="cable"  width="300px">
+  <li>
+     <h4>whoami – Menampilkan nama pengguna saat ini.</h4> 
+  </li>
+    <img  src="zip -r .png" alt="cable"  width="300px">
+  <li>
+     <h4>zip -r archive.zip folder/ – Mengompres folder menjadi file ZIP.</h4> 
+  </li>
   
 </ol>
 
