@@ -23,7 +23,6 @@ tugas min 50 command linux
 <hr>
 
 
-<h3> Alat dan Bahan </h3>
 <ol>
   <img  src="cat.png" alt="cable"  width="300px">
   <li>
